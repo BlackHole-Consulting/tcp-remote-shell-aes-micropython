@@ -1,4 +1,4 @@
-# tcp-remote-shell-aes-micropython
+# TCP IP Remote Shell Aes Micropython
 A simetric encrypted tcp remote shell write in micropython for embeded devices .
 
 The blackOS remote shell
